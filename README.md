@@ -22,6 +22,15 @@
    
   
 ### 다이나믹 프록시
+* 런타임에 인터페이스 또는 클래스의 프록시 인스턴스 또는 클래스를 만들어 사용하는 프로그래밍 기법이다.
 
+* 다이나믹 프록시 활용
+  * Spring Data JPA
+  * Hibernate Lazy Initialzation
+  * Spring AOP
+  * Mockito
+
+* 참고
+  * https://jenkov.com/tutorials/java-reflection/dynamic-proxies.html
   
   
